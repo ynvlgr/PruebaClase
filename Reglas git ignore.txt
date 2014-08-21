@@ -1,0 +1,9 @@
+Git ignore sirve para ocultar los archivos que no queremos que el repositorio conozca.Para ello sirve el .gitignore que permanece oculta en la raíz de la carpeta del proyecto.
+
+1.- Para ignorar un archivo:ruta/a/archivo.ext
+2.- Para ignorar una carpeta: ruta/a/carpeta
+3.-Para ignorar un grupo de archivos por extensión: ruta/a/carpeta/*.ext
+
+
+Desde la terminal se agrega en donde se inicializó el .git
+".gitignore".
